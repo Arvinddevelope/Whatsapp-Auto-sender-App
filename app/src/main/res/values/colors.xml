@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="pink_primary">#FF4081</color> <!-- Pink color for primary -->
+    <color name="pink_primary_dark">#D81B60</color> <!-- Darker shade of pink for primary -->
+    <color name="pink_accent">#FF80AB</color> <!-- Accent color to complement pink -->
+</resources>
